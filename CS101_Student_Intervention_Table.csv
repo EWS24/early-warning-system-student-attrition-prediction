@@ -1,0 +1,201 @@
+Student_ID,Gender,Ethnicity,Scholarship,Label,Recommendation,Instructor_Note
+S001,Male,Other,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S002,Male,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S003,Male,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S004,Female,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S005,Female,Hispanic,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S006,Male,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S007,Non-binary,Asian,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S008,Female,Asian,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S009,Non-binary,White,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S010,Female,White,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S011,Non-binary,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S012,Female,Hispanic,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S013,Non-binary,Black,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S014,Non-binary,Asian,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S015,Male,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S016,Male,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S017,Non-binary,Asian,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S018,Non-binary,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S019,Male,Hispanic,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S020,Non-binary,Black,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S021,Non-binary,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S022,Male,Hispanic,No,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S023,Female,Black,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S024,Non-binary,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S025,Non-binary,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S026,Non-binary,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S027,Male,Hispanic,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S028,Male,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S029,Non-binary,Hispanic,No,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S030,Male,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S031,Female,Hispanic,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S032,Male,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S033,Non-binary,Black,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S034,Non-binary,Hispanic,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S035,Non-binary,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S036,Non-binary,Black,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S037,Non-binary,Other,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S038,Female,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S039,Female,Asian,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S040,Male,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S041,Male,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S042,Non-binary,White,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S043,Non-binary,Black,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S044,Male,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S045,Male,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S046,Non-binary,Hispanic,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S047,Male,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S048,Male,Hispanic,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S049,Male,Asian,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S050,Non-binary,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S051,Female,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S052,Female,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S053,Male,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S054,Non-binary,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S055,Female,Asian,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S056,Non-binary,Black,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S057,Non-binary,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S058,Non-binary,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S059,Female,White,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S060,Non-binary,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S061,Male,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S062,Male,Other,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S063,Non-binary,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S064,Non-binary,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S065,Female,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S066,Non-binary,Hispanic,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S067,Female,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S068,Non-binary,Other,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S069,Non-binary,Asian,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S070,Non-binary,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S071,Female,Hispanic,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S072,Male,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S073,Male,Hispanic,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S074,Male,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S075,Female,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S076,Male,Asian,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S077,Female,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S078,Non-binary,Hispanic,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S079,Female,Hispanic,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S080,Non-binary,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S081,Non-binary,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S082,Non-binary,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S083,Non-binary,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S084,Female,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S085,Female,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S086,Non-binary,Hispanic,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S087,Female,Asian,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S088,Non-binary,Hispanic,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S089,Female,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S090,Male,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S091,Male,Asian,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S092,Non-binary,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S093,Female,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S094,Non-binary,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S095,Male,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S096,Male,Other,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S097,Male,White,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S098,Male,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S099,Non-binary,Black,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S100,Non-binary,Hispanic,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S101,Non-binary,Hispanic,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S102,Female,Hispanic,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S103,Male,White,No,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S104,Non-binary,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S105,Male,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S106,Female,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S107,Female,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S108,Male,Hispanic,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S109,Female,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S110,Non-binary,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S111,Male,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S112,Female,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S113,Non-binary,White,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S114,Male,Hispanic,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S115,Male,Black,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S116,Non-binary,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S117,Male,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S118,Male,Black,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S119,Female,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S120,Female,Black,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S121,Non-binary,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S122,Non-binary,Black,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S123,Non-binary,Black,No,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S124,Non-binary,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S125,Female,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S126,Non-binary,Hispanic,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S127,Non-binary,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S128,Male,Other,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S129,Female,Other,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S130,Male,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S131,Male,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S132,Male,Asian,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S133,Male,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S134,Male,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S135,Female,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S136,Male,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S137,Female,Other,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S138,Female,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S139,Female,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S140,Female,Hispanic,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S141,Male,Asian,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S142,Male,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S143,Non-binary,Other,No,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S144,Female,Asian,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S145,Female,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S146,Non-binary,Asian,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S147,Female,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S148,Female,Other,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S149,Female,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S150,Non-binary,Other,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S151,Male,Other,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S152,Male,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S153,Non-binary,Hispanic,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S154,Male,Asian,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S155,Non-binary,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S156,Male,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S157,Male,Asian,No,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S158,Female,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S159,Non-binary,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S160,Male,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S161,Non-binary,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S162,Non-binary,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S163,Non-binary,Black,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S164,Male,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S165,Male,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S166,Male,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S167,Non-binary,Hispanic,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S168,Male,Hispanic,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S169,Non-binary,Other,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S170,Male,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S171,Male,Hispanic,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S172,Female,White,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S173,Non-binary,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S174,Male,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S175,Male,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S176,Non-binary,Hispanic,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S177,Female,Asian,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S178,Non-binary,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S179,Non-binary,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S180,Female,Black,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S181,Female,Black,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S182,Male,Asian,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S183,Female,Hispanic,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S184,Male,White,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S185,Non-binary,Asian,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S186,Female,Asian,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S187,Male,White,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S188,Non-binary,Asian,No,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S189,Male,White,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S190,Male,Other,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S191,Male,Hispanic,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S192,Male,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S193,Female,Asian,Yes,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S194,Non-binary,Asian,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S195,Female,Hispanic,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S196,Female,Hispanic,No,Drift,Mid-semester check-in; offer time management tips and study group options.,Performance starts strong but declines. Prevent further drop.
+S197,Female,Hispanic,Yes,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
+S198,Male,Black,No,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S199,Non-binary,Black,Yes,Crisis,"Immediate intervention: schedule meeting, connect with advisor or counselor.",Student is disengaged early. May need academic and emotional support.
+S200,Male,Black,No,Normal,Congratulate on consistent performance.,Stable performance. Encourage continued success or leadership roles.
