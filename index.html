@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Early Warning System - Student Attrition Prediction</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1 class="header-title">Early Warning System</h1>
+                <p class="header-subtitle">Student Attrition Prediction & Intervention</p>
+            </div>
+            <div class="header-stats">
+                <div class="stat-card crisis">
+                    <div class="stat-number" id="crisis-count">0</div>
+                    <div class="stat-label">Crisis</div>
+                </div>
+                <div class="stat-card drift">
+                    <div class="stat-number" id="drift-count">0</div>
+                    <div class="stat-label">Drift</div>
+                </div>
+                <div class="stat-card normal">
+                    <div class="stat-number" id="normal-count">0</div>
+                    <div class="stat-label">Normal</div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="nav">
+            <button class="nav-btn active" data-tab="dashboard">Dashboard</button>
+            <button class="nav-btn" data-tab="students">Student Risk Analysis</button>
+            <button class="nav-btn" data-tab="interventions">Interventions</button>
+            <button class="nav-btn" data-tab="analytics">Analytics</button>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main">
+            <!-- Dashboard Tab -->
+            <div id="dashboard" class="tab-content active">
+                <div class="dashboard-grid">
+                    <div class="card">
+                        <h3>System Overview</h3>
+                        <p>The Early Warning System uses machine learning to predict student attrition risk and provides personalized intervention recommendations.</p>
+                        <div class="feature-list">
+                            <div class="feature-item">
+                                <strong>Crisis Detection:</strong> Identifies students with sudden academic collapse
+                            </div>
+                            <div class="feature-item">
+                                <strong>Drift Detection:</strong> Catches gradual disengagement patterns
+                            </div>
+                            <div class="feature-item">
+                                <strong>AI Recommendations:</strong> Provides context-specific support steps
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <h3>Risk Distribution</h3>
+                        <div class="risk-chart" id="risk-chart">
+                            <div class="chart-bar crisis-bar">
+                                <div class="bar-fill" data-risk="crisis"></div>
+                                <span class="bar-label">Crisis</span>
+                            </div>
+                            <div class="chart-bar drift-bar">
+                                <div class="bar-fill" data-risk="drift"></div>
+                                <span class="bar-label">Drift</span>
+                            </div>
+                            <div class="chart-bar normal-bar">
+                                <div class="bar-fill" data-risk="normal"></div>
+                                <span class="bar-label">Normal</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <h3>Recent Alerts</h3>
+                        <div id="recent-alerts" class="alert-list">
+                            <!-- Alerts will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Students Tab -->
+            <div id="students" class="tab-content">
+                <div class="controls">
+                    <div class="search-box">
+                        <input type="text" id="student-search" placeholder="Search students...">
+                    </div>
+                    <div class="filter-group">
+                        <select id="risk-filter">
+                            <option value="">All Risk Levels</option>
+                            <option value="Crisis">Crisis</option>
+                            <option value="Drift">Drift</option>
+                            <option value="Normal">Normal</option>
+                        </select>
+                        <select id="gender-filter">
+                            <option value="">All Genders</option>
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                            <option value="Non-binary">Non-binary</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="table-container">
+                    <table class="student-table">
+                        <thead>
+                            <tr>
+                                <th>Student ID</th>
+                                <th>Risk Level</th>
+                                <th>Probability</th>
+                                <th>Gender</th>
+                                <th>Ethnicity</th>
+                                <th>Scholarship</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="student-table-body">
+                            <!-- Student data will be populated by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Interventions Tab -->
+            <div id="interventions" class="tab-content">
+                <div class="intervention-grid">
+                    <div class="card">
+                        <h3>Crisis Interventions</h3>
+                        <div class="intervention-list" id="crisis-interventions">
+                            <!-- Crisis interventions will be populated -->
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <h3>Drift Interventions</h3>
+                        <div class="intervention-list" id="drift-interventions">
+                            <!-- Drift interventions will be populated -->
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <h3>Normal Support</h3>
+                        <div class="intervention-list" id="normal-interventions">
+                            <!-- Normal interventions will be populated -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Analytics Tab -->
+            <div id="analytics" class="tab-content">
+                <div class="analytics-grid">
+            <div class="card">
+                <h3>Performance Metrics</h3>
+                <div class="metrics-list">
+                    <div class="metric-item">
+                        <span class="metric-label">Model Accuracy:</span>
+                        <span class="metric-value">87.5%</span>
+                    </div>
+                    <div class="metric-item">
+                        <span class="metric-label">Precision (Crisis):</span>
+                        <span class="metric-value">92.3%</span>
+                    </div>
+                    <div class="metric-item">
+                        <span class="metric-label">Recall (Drift):</span>
+                        <span class="metric-value">85.7%</span>
+                    </div>
+                    <div class="metric-item">
+                        <span class="metric-label">F1-Score:</span>
+                        <span class="metric-value">88.9%</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card" style="margin-top: 2rem;">
+                <h3>Feature Importance</h3>
+                <div class="feature-importance">
+                    <div class="importance-item">
+                        <span class="feature-name">Login Frequency Change</span>
+                        <div class="importance-bar">
+                            <div class="importance-fill" style="width: 85%"></div>
+                        </div>
+                        <span class="importance-value">0.85</span>
+                    </div>
+                    <div class="importance-item">
+                        <span class="feature-name">Assignment Submission Rate</span>
+                        <div class="importance-bar">
+                            <div class="importance-fill" style="width: 72%"></div>
+                        </div>
+                        <span class="importance-value">0.72</span>
+                    </div>
+                    <div class="importance-item">
+                        <span class="feature-name">Attendance Consistency</span>
+                        <div class="importance-bar">
+                            <div class="importance-fill" style="width: 68%"></div>
+                        </div>
+                        <span class="importance-value">0.68</span>
+                    </div>
+                    <div class="importance-item">
+                        <span class="feature-name">Quiz Performance Trend</span>
+                        <div class="importance-bar">
+                            <div class="importance-fill" style="width: 54%"></div>
+                        </div>
+                        <span class="importance-value">0.54</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card" style="margin-top: 2rem;">
+                <h3>Weekly Trend Analysis</h3>
+                <p>Performance decline typically begins around <strong>Week 6-7</strong> of the semester.</p>
+                <div class="trend-insights">
+                    <div class="insight-item">
+                        <strong>Crisis Students:</strong> Need early intervention (Week 3-4)
+                    </div>
+                    <div class="insight-item">
+                        <strong>Drift Students:</strong> Benefit from mid-semester support (Week 6-8)
+                    </div>
+                    <div class="insight-item">
+                        <strong>Normal Students:</strong> Remain stable with light monitoring
+                    </div>
+                </div>
+            </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Student Detail Modal -->
+        <div id="student-modal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 id="modal-student-id">Student Details</h2>
+                    <button class="modal-close">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="student-info">
+                        <div class="info-section">
+                            <h4>Risk Assessment</h4>
+                            <div class="risk-details" id="modal-risk-details">
+                                <!-- Risk details will be populated -->
+                            </div>
+                        </div>
+                        <div class="info-section">
+                            <h4>Recommended Intervention</h4>
+                            <div class="intervention-details" id="modal-intervention">
+                                <!-- Intervention details will be populated -->
+                            </div>
+                        </div>
+                        <div class="info-section">
+                            <h4>Instructor Notes</h4>
+                            <div class="notes" id="modal-notes">
+                                <!-- Notes will be populated -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
